@@ -1,0 +1,6 @@
+homepage: "https://consently.app"
+documentation: "https://consently.app/guide"
+versions:
+  # SHA filled after the initial template commit.
+  - sha: PENDING
+    changeNotes: Initial release.
