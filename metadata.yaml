@@ -1,6 +1,5 @@
 homepage: "https://consently.app"
 documentation: "https://consently.app/guide"
 versions:
-  # SHA filled after the initial template commit.
-  - sha: PENDING
+  - sha: 2ea857deaaa5b2ae3442387c34da62dff2d18a7c
     changeNotes: Initial release.
